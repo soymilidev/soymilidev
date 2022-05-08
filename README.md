@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mili
+- 🐉 I'm currently working on my portfolio
+- ✨ I'm learning Web Development. I've learned HTML, CSS & JS.
